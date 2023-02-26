@@ -17,7 +17,8 @@ You Can Browse Foods By
 * You can also save your Favourite Foods.
 
 ##DEMO
-you can open the app via this link https://hananwaniii.github.io/
+
+You can open the app via this link https://recipe-teller.netlify.app
 
 ## Source
 
