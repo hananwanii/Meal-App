@@ -16,6 +16,9 @@ You Can Browse Foods By
 * Categories and 
 * You can also save your Favourite Foods.
 
+##DEMO
+you can open the app via this link https://hananwaniii.github.io/
+
 ## Source
 
 This Site is Inspired from Youtube Tutorial By [Florin Pop](https://www.youtube.com/watch?v=dtKciwk_si4).
