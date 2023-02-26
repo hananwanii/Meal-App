@@ -105,7 +105,7 @@ const displayMeals=(mealData,random=false,fav=false,region=undefined,alphabet=un
     mealContainer.classList.add('shadow-lg','p-4','my-4','rounded-xl','relative','bg-red-700','border-2','border-white','hover:bg-yellow-600','transition-all')
     mealContainer.id ='recipe'
     mealContainer.setAttribute('data',mealData.idMeal)
-    head.innerHTML='Foods'
+    head.innerHTML='Recommeded Foods'
     region && (head.innerHTML=`${region} Foods`)
     alphabet && (head.innerHTML=`Foods Starts with '${alphabet}' `)
     category && (head.innerHTML=`${category} Dishes `)
